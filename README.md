@@ -58,12 +58,12 @@
 ### 📊 Signal
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jurision/Jurision/main/profile-summary-card-output/tokyo_night/0-profile-details.svg" alt="profile details" />
+  <img src="https://raw.githubusercontent.com/Jurision/Jurision/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Jurision/Jurision/main/profile-summary-card-output/tokyo_night/3-stats.svg" alt="stats" />
-  <img height="200" src="https://raw.githubusercontent.com/Jurision/Jurision/main/profile-summary-card-output/tokyo_night/1-repos-per-language.svg" alt="repos per language" />
+  <img height="200" src="https://raw.githubusercontent.com/Jurision/Jurision/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img height="200" src="https://raw.githubusercontent.com/Jurision/Jurision/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
 </p>
 
 <p align="center">
