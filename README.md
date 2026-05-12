@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jurision.+%F0%9F%91%8B;Indie+developer+%C2%B7+%E6%B5%B7%E5%A4%96%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99;AI-native+%C2%B7+solo-shipped+%C2%B7+always+learning;Built+upon+countless+minds." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jurision.+%F0%9F%91%8B;Indie+developer+%C2%B7+Overseas+web+products;AI-native+%C2%B7+solo-shipped+%C2%B7+always+learning;Built+upon+countless+minds." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,8 +13,7 @@
 <br />
 
 <p align="center">
-  <i>&ldquo; Built upon countless minds. &rdquo;</i><br/>
-  <sub>一切技艺，皆建立在无数前人智慧之上。</sub>
+  <i>&ldquo; Built upon countless minds. &rdquo;</i>
 </p>
 
 <br />
@@ -23,14 +22,14 @@
 
 ### 🌱 About
 
-- 🛠️ &nbsp;**Independent developer** · 主线在做 **海外工具网站**
-- 🤖 &nbsp;**AI-native workflow** — 一个人完成 idea → design → ship 全过程
-- 🌏 &nbsp;Based in **China** · Shipping to **the world**
-- 💡 &nbsp;偏执地在意：UX 细节 / 自动化 / 增长打法 / 设计系统
-- ☕ &nbsp;Coffee-powered · 半夜效率最高的那种人
-- 📚 &nbsp;最近在啃：AI agents · serverless edge · indie marketing
-- 🎯 &nbsp;长期目标：做点能被陌生人长期使用的东西
-- 💬 &nbsp;欢迎来聊：**AI × 出海 / Claude Code / 独立开发**
+- 🛠️ &nbsp;**Independent developer** — building web products for the world
+- 🤖 &nbsp;**AI-native workflow** — one person, full cycle: idea → design → ship
+- 🌏 &nbsp;Based in **China** · shipping to a **global audience**
+- 💡 &nbsp;Quietly obsessed with: **UX detail · automation · growth craft · design systems**
+- ☕ &nbsp;Coffee-powered · most productive after midnight
+- 📚 &nbsp;Currently digging into: **AI agents · serverless edge · indie marketing**
+- 🎯 &nbsp;Long-term goal: build something used by people I'll never meet
+- 💬 &nbsp;Always open to talk: **AI workflows · indie products · the craft of shipping**
 
 ---
 
@@ -87,9 +86,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌊 &nbsp;Oceverse Packaging</h4>
+      <h4>🌊 &nbsp;Oceverse</h4>
       <p><sub><b>Role:</b> Solo developer · Designer · Shipper</sub></p>
-      <p>B2B 定制包装站，全程用 <b>Claude Code v2</b> 构建：响应式设计、表单校验、SEO、a11y、25 页静态输出，一人从 0 到 1。</p>
+      <p>A B2B commercial website built end-to-end with <b>Claude Code v2</b> — design system, form validation, SEO, accessibility, 25 static pages — solo from idea to ship.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -98,9 +97,9 @@
       <a href="https://github.com/Jurision/oceverse-cc-v2"><sub>→ View repository</sub></a>
     </td>
     <td width="50%" valign="top">
-      <h4>📦 &nbsp;Packaverse Website</h4>
+      <h4>⚡ &nbsp;Packaverse</h4>
       <p><sub><b>Role:</b> Solo developer · Front-end</sub></p>
-      <p>第二个包装类目站点，探索差异化布局、动效与增长打法。一边做一边总结一套自己的 indie web 模板。</p>
+      <p>A second indie commercial site exploring different layouts, animations and growth tactics. Templating my own indie web stack along the way.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -112,11 +111,11 @@
 
 ---
 
-### 📬 Connect
+### 📬 Get in touch
 
 <p align="center">
-  <a href="mailto:arielzhuu@gmail.com"><img src="https://img.shields.io/badge/Email-arielzhuu%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Jurision"><img src="https://img.shields.io/badge/GitHub-Jurision-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <i>Open to indie collaborations, AI experiments, and good questions.</i><br/>
+  <sub>Find me on <a href="https://github.com/Jurision">GitHub</a> — always reading my notifications.</sub>
 </p>
 
 ---
